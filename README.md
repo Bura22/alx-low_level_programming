@@ -1,1 +1,1 @@
-This is a readme file for a low level programming languages including C
+This is a readme file for C programming language
