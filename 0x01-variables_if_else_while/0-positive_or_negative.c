@@ -5,10 +5,9 @@
 /*
  * main - assigns a variable n
  * and a random function generates
- * a random number.
- * Then the it checks wether it is
- * negative or positive and it prints
- * it's state
+ * a random number. Then the it checks wether it is
+ * negative or positive and it prints it's state
+ * Return: Always 0 (Success)
  */ 
 
 int main()
