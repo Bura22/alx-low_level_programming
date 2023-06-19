@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /* main - prints alphabets in lowercase
- * followed by new line
  * Return: Always 0 (Success)
  */
 
@@ -10,15 +9,11 @@ int main(void)
 {
 	char c = 'a';
 
-        while (c <= 'z')
-         {
+	while (c <= 'z)
+	{
+		putchr(c);
+		c++;
+	}
 
-        putchar(c);
-	putchar('\n');
-        c++;
-
-         }
-
-        return (0);
-
+	return (0);
 }
