@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * Description: the function  print_alphabet_x10() prints the alphabets
- * 10 times
- * Return: the function  print_alphabet_x10() returns nothing
+ * print_alphabet_x10: prints the alphabets 10 times
+ * Return: void
  */
 
 void print_alphabet_x10(void)
@@ -16,7 +15,9 @@ void print_alphabet_x10(void)
 		for (c = 'a'; c <= 'z'; c++)
 		{
 			_putchar(c);
-			i++;
 		}
+
+		_putchar('\n');
+		i++;
 	}
 }
