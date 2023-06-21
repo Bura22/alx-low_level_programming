@@ -2,7 +2,7 @@
 
 /**
  * add - adds two integer numbers
- * Description: the function add takes two integer argumrnts
+ * @a,@b - numbers to be added
  * Return: Always sum. (returns sum of two integers
  */
 
