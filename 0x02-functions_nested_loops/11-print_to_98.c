@@ -16,6 +16,6 @@ void print_to_98(int n)
 			_putchar(i + '0');
 	}
 
-	for (i = 98; i >= n; i--)
+	for (i = n; i >= 98; i--)
 		_putchar(i + '0');
 }
