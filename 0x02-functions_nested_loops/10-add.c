@@ -2,8 +2,8 @@
 
 /**
  * add - adds two integer numbers
- * @a - the first number to be added with b
- * @b - the second  number to be added with a
+ * @a: The first number to be added with b
+ * @b: The second  number to be added with a
  * Return: Always sum. (returns sum of two integers
  */
 
